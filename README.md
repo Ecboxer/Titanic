@@ -8,4 +8,9 @@ Practicing machine learning with Kaggle's Titanic competition
 
 ### Prerequisites
 
-Python libraries:
+**Python libraries:**
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
